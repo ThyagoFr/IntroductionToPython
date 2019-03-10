@@ -2,6 +2,8 @@
 
 ## Conteudo programático
 
+### Para os alunos da disciplina de Programação Computacional para Engenharia,os capítulos referentes a disciplina são os capítulos 01 ao 04. Todos os outros capítulos podem ser considerados como um acréscimo(não vai cair em prova rsrs)
+
 01. Introdução
 02. Variáveis, Tipos e Estruturas de Dados
 03. Loops, Condicionais, Métodos e Funções
