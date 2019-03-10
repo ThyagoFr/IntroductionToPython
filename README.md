@@ -1,6 +1,6 @@
 # IntroductionToPython
 
-## Conteudo programático
+## Conteúdo programático
 
 ### Para os alunos da disciplina de Programação Computacional para Engenharia,os capítulos referentes a disciplina são os capítulos 01 ao 04. Todos os outros capítulos podem ser considerados como um acréscimo(não vão cair em prova rsrs)
 
